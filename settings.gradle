@@ -1,0 +1,4 @@
+rootProject.name = 'client-credentials'
+
+include 'client-service'
+include 'resource-server'
